@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>7.1</LangVersion>
+
+    <PackageId>LiveDelegate.ILSpy</PackageId>
+    <PackageDescription>Interact with Compiled Delegates' Syntax Trees Dynamically</PackageDescription>
+    <Authors>areller</Authors>
+    <Company>areller</Company>
+
+    <RepositoryUrl>https://github.com/areller/LiveDelegate.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>

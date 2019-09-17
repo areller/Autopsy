@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveDelegate.ILSpy.UnitTest
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{2F7FDE90-B8F4-4698-84C4-3580A914BB5F}"
 	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+		deploy.sh = deploy.sh
 		README.md = README.md
 	EndProjectSection
 EndProject
