@@ -6,10 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ICSharpCode.Decompiler" Version="4.0.0.4521" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\src\LiveDelegate.ILSpy\LiveDelegate.ILSpy.csproj" />
   </ItemGroup>
 
