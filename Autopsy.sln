@@ -20,8 +20,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autopsy.ILSpy.UnitTests.Tes
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "temp", "temp", "{5F253B58-363B-4609-B9D3-718F02FFEE37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynAutopsyLib", "temp\RoslynAutopsyLib\RoslynAutopsyLib.csproj", "{17CDBA0E-FEF3-4312-9330-A5A72F0230D1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +46,14 @@ Global
 		{17CDBA0E-FEF3-4312-9330-A5A72F0230D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17CDBA0E-FEF3-4312-9330-A5A72F0230D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17CDBA0E-FEF3-4312-9330-A5A72F0230D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5655F2CF-8667-4DDF-AF1B-C533445113F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5655F2CF-8667-4DDF-AF1B-C533445113F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5655F2CF-8667-4DDF-AF1B-C533445113F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5655F2CF-8667-4DDF-AF1B-C533445113F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E59368-8704-4CED-84C9-86B954FB8F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E59368-8704-4CED-84C9-86B954FB8F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E59368-8704-4CED-84C9-86B954FB8F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E59368-8704-4CED-84C9-86B954FB8F3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,5 +63,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{17CDBA0E-FEF3-4312-9330-A5A72F0230D1} = {5F253B58-363B-4609-B9D3-718F02FFEE37}
+		{5655F2CF-8667-4DDF-AF1B-C533445113F7} = {5F253B58-363B-4609-B9D3-718F02FFEE37}
+		{13E59368-8704-4CED-84C9-86B954FB8F3D} = {5F253B58-363B-4609-B9D3-718F02FFEE37}
 	EndGlobalSection
 EndGlobal
