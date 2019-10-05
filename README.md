@@ -4,7 +4,7 @@ This project is currently under development, stay tuned :)
 
 ![](https://travis-ci.com/areller/Autopsy.svg?branch=master)  
 
-[![Nuget](https://img.shields.io/nuget/v/Autopsy)](https://www.nuget.org/packages/Autopsy)
+[![Nuget](https://img.shields.io/nuget/v/Autopsy.ILSpy)](https://www.nuget.org/packages/Autopsy.ILSpy)
 
 Use Autopsy to read the syntax of compiled delegates.  
 
