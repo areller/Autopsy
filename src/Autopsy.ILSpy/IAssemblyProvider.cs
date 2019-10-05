@@ -1,7 +1,7 @@
 ﻿using ICSharpCode.Decompiler.Metadata;
 using System.Reflection;
 
-namespace LiveDelegate.ILSpy
+namespace Autopsy.ILSpy
 {
     interface IAssemblyProvider : IAssemblyResolver
     {

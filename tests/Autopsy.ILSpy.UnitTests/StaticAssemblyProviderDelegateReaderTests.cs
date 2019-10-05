@@ -4,12 +4,12 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
-using LiveDelegate.ILSpy.Extensions;
+using Autopsy.ILSpy.Extensions;
 using System.Reflection;
-using LiveDelegate.ILSpy.UnitTests.TestObjects;
-using LiveDelegate.ILSpy.Exceptions;
+using Autopsy.ILSpy.UnitTests.TestObjects;
+using Autopsy.ILSpy.Exceptions;
 
-namespace LiveDelegate.ILSpy.UnitTests
+namespace Autopsy.ILSpy.UnitTests
 {
     [TestClass]
     public class StaticAssemblyProviderDelegateReaderTests

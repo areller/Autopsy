@@ -4,10 +4,10 @@ using System.Reflection;
 using System.Reflection.Metadata;
 using System.Reflection.PortableExecutable;
 using System.Threading;
+using Autopsy.ILSpy.Exceptions;
 using ICSharpCode.Decompiler.Metadata;
-using LiveDelegate.ILSpy.Exceptions;
 
-namespace LiveDelegate.ILSpy.Providers
+namespace Autopsy.ILSpy.Providers
 {
     class RecursiveAssemblyProvider : IAssemblyProvider
     {

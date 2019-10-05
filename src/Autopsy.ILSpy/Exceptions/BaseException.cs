@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace LiveDelegate.ILSpy.Exceptions
+namespace Autopsy.ILSpy.Exceptions
 {
     public abstract class BaseException : Exception
     {

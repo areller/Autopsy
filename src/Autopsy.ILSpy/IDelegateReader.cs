@@ -1,7 +1,7 @@
 ﻿using ICSharpCode.Decompiler.CSharp.Syntax;
 using System;
 
-namespace LiveDelegate.ILSpy
+namespace Autopsy.ILSpy
 {
     public interface IDelegateReader
     {

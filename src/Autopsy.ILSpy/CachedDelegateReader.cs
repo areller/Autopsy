@@ -4,7 +4,7 @@ using System.Diagnostics.Contracts;
 using System.Threading;
 using ICSharpCode.Decompiler.CSharp.Syntax;
 
-namespace LiveDelegate.ILSpy
+namespace Autopsy.ILSpy
 {
     class CachedDelegateReader : IDelegateReader
     {

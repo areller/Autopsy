@@ -1,7 +1,7 @@
 ﻿using ICSharpCode.Decompiler.CSharp.Syntax;
 using System;
 
-namespace LiveDelegate.ILSpy.Demo
+namespace Autopsy.ILSpy.Demo
 {
     delegate int MyFunc(int num);
 

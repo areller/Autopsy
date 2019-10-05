@@ -1,9 +1,9 @@
 ﻿using FluentAssertions;
-using LiveDelegate.ILSpy.Extensions;
-using LiveDelegate.ILSpy.UnitTests.TestObjects;
+using Autopsy.ILSpy.Extensions;
+using Autopsy.ILSpy.UnitTests.TestObjects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace LiveDelegate.ILSpy.UnitTests
+namespace Autopsy.ILSpy.UnitTests
 {
     [TestClass]
     public class DefaultAssemblyProviderDelegateReaderTests

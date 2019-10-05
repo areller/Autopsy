@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\LiveDelegate.ILSpy\LiveDelegate.ILSpy.csproj" />
+    <ProjectReference Include="..\..\src\Autopsy.ILSpy\Autopsy.ILSpy.csproj" />
   </ItemGroup>
 
 </Project>

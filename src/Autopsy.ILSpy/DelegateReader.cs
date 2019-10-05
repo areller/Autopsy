@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Reflection;
 using System.Reflection.Metadata;
+using Autopsy.ILSpy.Providers;
 using ICSharpCode.Decompiler;
 using ICSharpCode.Decompiler.CSharp;
 using ICSharpCode.Decompiler.CSharp.Syntax;
 using ICSharpCode.Decompiler.Metadata;
-using LiveDelegate.ILSpy.Providers;
 
-namespace LiveDelegate.ILSpy
+namespace Autopsy.ILSpy
 {
     public class DelegateReader : IDelegateReader
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Runtime.Versioning;
 
-namespace LiveDelegate.ILSpy
+namespace Autopsy.ILSpy
 {
     public static class AssemblySet
     {

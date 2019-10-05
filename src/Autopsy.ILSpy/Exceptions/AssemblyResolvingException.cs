@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace LiveDelegate.ILSpy.Exceptions
+namespace Autopsy.ILSpy.Exceptions
 {
     public class AssemblyResolvingException : BaseException
     {

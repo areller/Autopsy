@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LiveDelegate.ILSpy.UnitTests.TestObjects
+namespace Autopsy.ILSpy.UnitTests.TestObjects
 {
     public class ExternalFoo
     {

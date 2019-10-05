@@ -3,7 +3,7 @@ using ICSharpCode.Decompiler.IL;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LiveDelegate.ILSpy.Extensions
+namespace Autopsy.ILSpy.Extensions
 {
     public static class SyntaxTreeExtensions
     {

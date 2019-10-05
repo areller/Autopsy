@@ -5,10 +5,10 @@ using System.Linq;
 using System.Reflection;
 using System.Reflection.Metadata;
 using System.Reflection.PortableExecutable;
+using Autopsy.ILSpy.Exceptions;
 using ICSharpCode.Decompiler.Metadata;
-using LiveDelegate.ILSpy.Exceptions;
 
-namespace LiveDelegate.ILSpy.Providers
+namespace Autopsy.ILSpy.Providers
 {
     class StaticAssemblyProvider : IAssemblyProvider
     {

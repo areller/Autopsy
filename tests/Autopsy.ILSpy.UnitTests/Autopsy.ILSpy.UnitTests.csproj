@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\LiveDelegate.ILSpy\LiveDelegate.ILSpy.csproj" />
-    <ProjectReference Include="..\LiveDelegate.ILSpy.UnitTests.TestObjects\LiveDelegate.ILSpy.UnitTests.TestObjects.csproj" />
+    <ProjectReference Include="..\..\src\Autopsy.ILSpy\Autopsy.ILSpy.csproj" />
+    <ProjectReference Include="..\Autopsy.ILSpy.UnitTests.TestObjects\Autopsy.ILSpy.UnitTests.TestObjects.csproj" />
   </ItemGroup>
 
 </Project>

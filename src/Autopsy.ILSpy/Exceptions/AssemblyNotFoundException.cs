@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Reflection;
 
-namespace LiveDelegate.ILSpy.Exceptions
+namespace Autopsy.ILSpy.Exceptions
 {
     public class AssemblyNotFoundException : BaseException
     {

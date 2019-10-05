@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveDelegate.ILSpy", "src\LiveDelegate.ILSpy\LiveDelegate.ILSpy.csproj", "{F8F66DAA-C6C5-4C12-9F87-60F8D5AD8CB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autopsy.ILSpy", "src\Autopsy.ILSpy\Autopsy.ILSpy.csproj", "{F8F66DAA-C6C5-4C12-9F87-60F8D5AD8CB4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveDelegate.ILSpy.Demo", "tests\LiveDelegate.ILSpy.Demo\LiveDelegate.ILSpy.Demo.csproj", "{7F0ED113-6758-48E8-A068-CEE469CD9D53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autopsy.ILSpy.Demo", "tests\Autopsy.ILSpy.Demo\Autopsy.ILSpy.Demo.csproj", "{7F0ED113-6758-48E8-A068-CEE469CD9D53}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveDelegate.ILSpy.UnitTests", "tests\LiveDelegate.ILSpy.UnitTests\LiveDelegate.ILSpy.UnitTests.csproj", "{EA0E6F7F-0B0D-42BF-BD6B-51336217CBBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autopsy.ILSpy.UnitTests", "tests\Autopsy.ILSpy.UnitTests\Autopsy.ILSpy.UnitTests.csproj", "{EA0E6F7F-0B0D-42BF-BD6B-51336217CBBF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{2F7FDE90-B8F4-4698-84C4-3580A914BB5F}"
 	ProjectSection(SolutionItems) = preProject
@@ -16,7 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{2F7FDE90
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveDelegate.ILSpy.UnitTests.TestObjects", "tests\LiveDelegate.ILSpy.UnitTests.TestObjects\LiveDelegate.ILSpy.UnitTests.TestObjects.csproj", "{0AC6CAC6-76EA-49DA-BC04-A96624D98206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autopsy.ILSpy.UnitTests.TestObjects", "tests\Autopsy.ILSpy.UnitTests.TestObjects\Autopsy.ILSpy.UnitTests.TestObjects.csproj", "{0AC6CAC6-76EA-49DA-BC04-A96624D98206}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
