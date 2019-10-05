@@ -4,12 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>7.1</LangVersion>
 
-    <PackageId>LiveDelegate.ILSpy</PackageId>
+    <PackageId>Autopsy.ILSpy</PackageId>
     <PackageDescription>Interact with Compiled Delegates' Syntax Trees Dynamically</PackageDescription>
     <Authors>areller</Authors>
     <Company>areller</Company>
 
-    <RepositoryUrl>https://github.com/areller/LiveDelegate.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/areller/Autopsy.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
