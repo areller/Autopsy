@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ICSharpCode.Decompiler" Version="5.0.0.5124" />
+    <PackageReference Include="ICSharpCode.Decompiler" Version="5.0.2.5153" />
   </ItemGroup>
 
 </Project>
